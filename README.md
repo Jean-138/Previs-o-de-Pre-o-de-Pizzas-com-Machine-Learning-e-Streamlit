@@ -1,0 +1,1 @@
+Uma aplicação simples de machine learning desenvolvida em Python, utilizando pandas, scikit-learn e Streamlit, que permite prever o preço de uma pizza com base no seu diâmetro. A aplicação oferece uma interface interativa onde o usuário informa o tamanho da pizza e recebe uma previsão de preço em tempo real
